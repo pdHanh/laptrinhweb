@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file test chỉ thuộc branch: test_conflict
+=======
+file test thuộc 2 branch: test_conflict và main
+>>>>>>> main
