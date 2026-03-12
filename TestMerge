@@ -1,2 +1,6 @@
 pull file TestMarge at master in main
+<<<<<<< HEAD
+day la file test thuoc branch: master ma thoi
+=======
 day la file test thuoc branch: main and master
+>>>>>>> main
